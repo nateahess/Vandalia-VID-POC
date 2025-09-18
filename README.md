@@ -1,2 +1,2 @@
-# Vandalia-VID-POC
- POC for Verifiable Credentials at Vandalia Health
+# Microsoft Entra Verified ID POC
+
