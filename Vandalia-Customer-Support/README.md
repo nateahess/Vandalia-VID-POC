@@ -6,7 +6,7 @@ products:
 - microsoft entra
 - verified id
 description: "A code sample for prooving identity with face check at a helpdesk, using Entra Verified ID"
-urlFragment: "6-woodgrove-helpdesk"
+urlFragment: "Vandalia-Customer-Support"
 ---
 # Verified ID Code Sample for Vandalia Health Support (Presentation on Verified ID)
 
