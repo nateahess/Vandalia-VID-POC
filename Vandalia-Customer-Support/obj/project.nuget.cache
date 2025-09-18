@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HyzduSDCg/A=",
+  "dgSpecHash": "VSHFE5pyOKg=",
   "success": true,
-  "projectFilePath": "/Users/nathanhess/Documents/GitHub/Vandalia-VID-POC/Vandalia-Customer-Support/VandaliaHelpdesk.csproj",
+  "projectFilePath": "/Users/nathanhess/Documents/GitHub/Vandalia-VID-POC/Vandalia-VID-POC/Vandalia-Customer-Support/VandaliaHelpdesk.csproj",
   "expectedPackageFiles": [
     "/Users/nathanhess/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/nathanhess/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

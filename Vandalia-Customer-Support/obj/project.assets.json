@@ -2619,11 +2619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nathanhess/Documents/GitHub/Vandalia-VID-POC/Vandalia-Customer-Support/VandaliaHelpdesk.csproj",
+      "projectUniqueName": "/Users/nathanhess/Documents/GitHub/Vandalia-VID-POC/Vandalia-VID-POC/Vandalia-Customer-Support/VandaliaHelpdesk.csproj",
       "projectName": "VandaliaHelpdesk",
-      "projectPath": "/Users/nathanhess/Documents/GitHub/Vandalia-VID-POC/Vandalia-Customer-Support/VandaliaHelpdesk.csproj",
+      "projectPath": "/Users/nathanhess/Documents/GitHub/Vandalia-VID-POC/Vandalia-VID-POC/Vandalia-Customer-Support/VandaliaHelpdesk.csproj",
       "packagesPath": "/Users/nathanhess/.nuget/packages/",
-      "outputPath": "/Users/nathanhess/Documents/GitHub/Vandalia-VID-POC/Vandalia-Customer-Support/obj/",
+      "outputPath": "/Users/nathanhess/Documents/GitHub/Vandalia-VID-POC/Vandalia-VID-POC/Vandalia-Customer-Support/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nathanhess/.nuget/NuGet/NuGet.Config"
