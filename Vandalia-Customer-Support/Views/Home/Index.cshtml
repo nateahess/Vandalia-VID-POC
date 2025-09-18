@@ -5,18 +5,18 @@
 }
 
 <div style="text-align: center;" >
-    <h1 class="banner-title">Welcome to the Vandalia Health Customer Support Portal</h1>
+    <h1 class="banner-title">Welcome to the Vandalia Health ID Verification Portal</h1>
     @if (null != ViewData["displayName"]) {
-        <h3 class="banner-title">Welcome to the Vandalia Health Customer Support Portal</h3>
+        <h3 class="banner-title">Welcome to the Vandalia Health ID Verification Portal</h3>
     }
     <div id="message-wrapper" class="margin-bottom-25 margin-top-25">
         <div id="message">@ViewData["message"]</div>
     </div>
 
     <div id="card-1" class="verification-card">
-        <button type="button" id="get-vc" class="button">Step 1: Get your card at MyAccount to prove your employment</button>
+        <button type="button" id="get-vc" class="button">Step 1: Get your virtual ID card at MyAccount to verify your identity</button>
         <p>To get support, you need to have your <a href="https://learn.microsoft.com/en-us/entra/verified-id/verifiable-credentials-configure-tenant-quick#myaccount-available-now-to-simplify-issuance-of-workplace-credentials" target="_blank">
-            VerifiedEmployee card</a> with a photo.</p>
+            virtual ID card</a> with a photo.</p>
         <div>
             <a id="have-verifiedemployeeI"><img width="177px" src="~/verifiedemployee-card.png" /></a>
             <br />
@@ -25,8 +25,8 @@
     </div>
 
     <div id="card-2" class="verification-card">
-        <button type="button" id="verify-credential" class="button">Step 2: Present your VerifiedEmployee card</button>
-        <p>Use the Authenticator to present your VerifiedEmployee card</p>
+        <button type="button" id="verify-credential" class="button">Step 2: Present your virtual ID card</button>
+        <p>Use the Microsoft Authenticator app to present your virtual ID card</p>
         <div id="qrcode" style="text-align:center"></div>
         <a id="check-result" class="skipButton" style="display:none">Continue</a>
     </div>
@@ -34,7 +34,7 @@
     <div id="card-3" class="verification-card">
         <div id="authAppMessage" class="waitingForAuthApp">Step 3: Get support</div>
         <div id="apps-button-wrapper" class="appsWrapper" style="display:none;">
-            <p>Your interglactic ID has been verified. Move along.</p>            
+            <p>Your Vandalia virtual employee ID has been verified. Thank you.</p>            
             <ul>
                 <li>Email:<div id="userUpn" class="monospacedText"></div></li>
                 <li>Name:<div id="userName" class="monospacedText"></div></li>

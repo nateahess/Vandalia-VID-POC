@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VandaliaHelpdesk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c26283c4bad4d4241848f200f7706c6eee1d18d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c09042558e14dfe427a608ccd1a77ef16cc591bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("VandaliaHelpdesk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VandaliaHelpdesk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
